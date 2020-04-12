@@ -10,7 +10,7 @@ touch: this creates a file of any simple type.
 /*
 node commands:
 node: node --version: tell you what version of node I have installed
-node is an open source environment for executing your javgit addascript code outside of a browser
+node is an open source environment for executing your javgit addgit addascript code outside of a browser
 */
 
 /* 
